@@ -1,1 +1,1 @@
-# mopo.CodePublishTool
+# Code Publish Assist Tool
